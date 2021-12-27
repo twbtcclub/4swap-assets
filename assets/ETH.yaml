@@ -1,0 +1,21 @@
+circulation: "109542949"
+explorer: https://etherscan.io/
+intro:
+  en:
+  - Ethereum is a decentralized open-source blockchain system that features its own
+    cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies,
+    as well as for the execution of decentralized smart contracts.
+  - Ethereum was first described in a 2013 whitepaper by Vitalik Buterin. Buterin,
+    along with other co-founders, secured funding for the project in an online public
+    crowd sale in the summer of 2014 and officially launched the blockchain on July
+    30, 2015.
+  - Ethereum’s own purported goal is to become a global platform for decentralized
+    applications, allowing users from all over the world to write and run software
+    that is resistant to censorship, downtime and fraud.
+  zh:
+  - 以太坊是一个智能合约平台，开发人员可以在以太坊区块链上构建去中心化应用(DApps)。以太币是以太坊平台的本地数字货币。
+  - 以太坊的资金部分来源于以太坊基金会，该基金会是以太坊生态下的一个非营利组织。以太坊生态还包括诸多联合企业，如以太坊企业联盟等。
+issue: 2014/7/24
+name: Ethereum
+total: "109542949"
+website: https://www.ethereum.org/

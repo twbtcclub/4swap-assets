@@ -1,0 +1,14 @@
+circulation: ""
+explorer: https://w3c.group/wgt
+intro:
+  en:
+  - 'WGT is the governance token of the platform Web3.0 Collaborative Group, a blockchain-driven
+    collaborative community for creators  '
+  zh:
+  - W3 协作组（Web3.0 Collaborative Group）是区块链驱动的创造者协作社区，是基于 Mixin Network 开发的区块链应用。
+  - WGT是W3 协作组的通证。平台通证 WGT 需通过对社区做出贡献以获得积分，再通过持有的积分挖出。平台通过提供WGT 和其他价值币交易对的流动性，通过自动做市的方式，让挖得的
+    WGT能够随时轻松出售。
+issue: 2019/9/11
+name: W3cGroup Token
+total: "12000000"
+website: https://w3c.group

@@ -1,0 +1,23 @@
+circulation: "39920510120"
+explorer: https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
+intro:
+  en:
+  - USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the
+    U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the
+    USD is achieved via maintaining a sum of dollars in reserves that is equal to
+    the number of USDT in circulation.
+  - Originally launched in July 2014 as Realcoin, a second-layer cryptocurrency token
+    built on top of Bitcoin’s blockchain through the use of the Omni platform, it
+    was later renamed to USTether, and then, finally, to USDT. In addition to Bitcoin’s,
+    USDT was later updated to work on the Ethereum, EOS, Tron, Algorand, and OMG blockchains.
+  - The stated purpose of USDT is to combine the unrestricted nature of cryptocurrencies
+    — which can be sent between users without a trusted third-party intermediary —
+    with the stable value of the US dollar.
+  zh:
+  - 泰达币(USDT)是一种数字货币，其价值意在反映美元的价值。 泰达币于2014年推出，其目的是创建一种稳定的加密货币，可像数字美元或“稳定币”一样使用。泰达币的价格与美元锚定。
+  - 泰达币最开始使用比特币网络的Omni层作为其传输协议，现在它可以在以太坊上作为ERC-20代币使用。泰达币已经在比特币(Omni和Liquid协议)、以太坊、EOS、波场区块链上发行。
+  - 泰达币由Tether Limited发行，这家公司与加密货币交易所Bitfinex拥有同一个CEO。Tether曾声称为泰达币储备了100%的美元准备金。2019年，该公司的律师表示只有74%的泰达币有准备金做支撑。对此Tether的解释是，其子公司的贷款也属于储备金的一部分。
+issue: 2017/09
+name: Tether
+total: "39920510120"
+website: https://tether.to/

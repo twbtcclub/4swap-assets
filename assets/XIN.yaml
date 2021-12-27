@@ -1,0 +1,21 @@
+circulation: "537721"
+explorer: https://mixin.one/snapshots
+intro:
+  en:
+  - Mixin (XIN) is a smart-contract network designed to facilitate peer-to-peer (P2P)
+    transactions with digital assets across blockchains.  Leveraging Directed Acyclic
+    Graph (DAG) and Byzantine Fault-Tolerant protocols, Mixin aspires to help other
+    blockchains achieve trillions of TPS, sub-second final confirmations, zero transaction
+    fees, enhanced privacy, and unlimited extensibility. Mixin Messenger, the first
+    dApp created on Mixin Network, combines Facebook Messenger-like features with
+    a multi-currency mobile wallet. XIN is the native cryptocurrency of the Mixin
+    Network, which also supports BTC, ETH, BCH, ETC, and more.
+  - The Mixin Kernel  now supports 24 blockchains, over 50,000 cryptocurrencies, and
+    all manners of bots.
+  zh:
+  - XIN是Mixin平台的唯一代币，总量恒定为1,000,000。Mixin 是一个免费、快速的点对点跨链数字资产交易网络，可帮助其他区块链分布式账本获得超高TPS、亚秒级确认、零手续费、加强隐私、无限扩展的能力。Mixin网络使用PoS
+    + Asynchronous BFT 共识机制，DAG数据储存，通过带惩罚机制的 PoS 去中心化网络，TEE 硬件加固，数万轻节点监督全节点防止作恶。
+issue: 2017/11/25
+name: Mixin
+total: "1000000"
+website: https://mixin.one

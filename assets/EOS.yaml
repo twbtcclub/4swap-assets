@@ -1,0 +1,27 @@
+circulation: "951597844"
+explorer: https://eosauthority.com/
+intro:
+  en:
+  - EOS is a platform that’s designed to allow developers to build decentralized apps
+    (otherwise known as DApps for short.)
+  - 'The project’s goal is relatively simple: to make it as straightforward as possible
+    for programmers to embrace blockchain technology — and ensure that the network
+    is easier to use than rivals. As a result, tools and a range of educational resources
+    are provided to support developers who want to build functional apps quickly.'
+  - Other priorities include delivering greater levels of scalability than other blockchains,
+    some of which can only handle less than a dozen transactions per second.
+  - EOS also aims to improve the experience for users and businesses. While the project
+    tries to deliver greater security and less friction for consumers, it also vies
+    to unlock flexibility and compliance for enterprises.
+  zh:
+  - EOSIO 区块链是一个去中心化系统，由其本地货币柚子（EOS）提供支持，该平台还支持去中心化应用(DApp)。柚子通常用于商业用途，可以作为 DApp 筹集资金的筹码。2017年5月，block.one
+    发布了柚子，它不代表任何特定的事物，因为创建它的人也从未正式定义它。block.one 的 CTO 是 Dan Laimer，他曾创立了 Bitshares
+    和 Steem。
+  - 柚子在2017年进行了为期一年的 ICO，在五天内共发行了2亿枚代币（占总量的20%），其余7亿枚（70%）在接下来的一年中继续进行分配，1亿枚（10%）托管在
+    block.one 中。
+  - 柚子协议的运作方式类似于谷歌商店和苹果商店，它模拟了真实计算机的大部分属性，包括一些硬件计算资源（如用于数据处理的CPU和你GPU，本地/RAM内存以及硬盘储存），这些资源会平均分配给柚子加密货币的持有者。另外，柚子还支持用于界面开发的Web工具包。
+  - 本质上，EOSIO作为智能合约平台和分布式操作系统运行，它旨在通过去中心化自治公司模型来部署工业化规模的DApp。该智能合约平台声称每秒可以处理数百万笔交易，而且不需要手续费。柚子系统是一种引入了区块链架构的软件，其目标是增加去中心化应用的扩展性。柚子软件系统提供帐户，身份验证，数据库，异步通信以及跨多个CPU内核或群集的应用程序调度。
+issue: 2018/6/1
+name: EOS
+total: "1028098256"
+website: https://eos.io/

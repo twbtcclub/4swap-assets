@@ -1,0 +1,24 @@
+circulation: "18247575"
+explorer: https://www.blockchain.com/explorer
+intro:
+  en:
+  - Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper
+    by a person, or group of people, using the alias Satoshi Nakamoto. It was launched
+    soon after, in January 2009.
+  - Bitcoin is a peer-to-peer online currency, meaning that all transactions happen
+    directly between equal, independent network participants, without the need for
+    any intermediary to permit or facilitate them. Bitcoin was created, according
+    to Nakamoto’s own words, to allow “online payments to be sent directly from one
+    party to another without going through a financial institution.”
+  - Some concepts for a similar type of a decentralized electronic currency precede
+    BTC, but Bitcoin holds the distinction of being the first-ever cryptocurrency
+    to come into actual use.
+  zh:
+  - 比特币是一种完全去中心化的数字货币。与美元不同，您无法将它拿在手上，也不能把它存进银行。比特币运行在一个点对点的网络上，人们可以在无需中介机构（如银行、央行或者支付机构）的情况下发送和接收比特币。事实上，没有任何一家中心化机构或者支付系统可以控制比特币。
+  - 目前，CMC官网上列出的加密货币达到了6千多种，但比特币才是有史以来第一个加密货币。2008年10月31日，有人（或者一群人）以“中本聪”的名义发表了著名的比特币白皮书。
+  - 白皮书的第一行写道：“一个真正的的点对点的电子现金应该允许从发起方直接在线支付给对方，而不需要通过第三方的金融服务机构。”
+  - 比特币网络于2009年1月日正式发布，这标志着加密货币革命的开始。
+issue: 2008/10/31
+name: Bitcoin
+total: "21000000"
+website: https://bitcoin.org

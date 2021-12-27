@@ -1,0 +1,23 @@
+circulation: "17870887"
+explorer: https://localmonero.co/blocks
+intro:
+  en:
+  - 'Monero was launched in 2014, and its goal is simple: to allow transactions to
+    take place privately and with anonymity. Even though it’s commonly thought that
+    BTC can conceal a person’s identity, it’s often easy to trace payments back to
+    their original source because blockchains are transparent. On the other hand,
+    XMR is designed to obscure senders and recipients alike through the use of advanced
+    cryptography.'
+  - The team behind Monero say privacy and security are their biggest priorities,
+    with ease of use and efficiency coming second. It aims to provide protection to
+    all users — irrespective of how technologically competent they are.
+  - Overall, XMR aims to allow payments to be made quickly and inexpensively without
+    fear of censorship.
+  zh:
+  - 门罗币(XMR)是一种私有、安全且不可追溯的加密货币，2014年4月18日作为ByteCoin的分叉币推出。它是一种开源的、以隐私为导向的数字货币，构建在不透明的区块链网络上。门罗币开发人保护员宣称，用户可以完全控制自己的资金和隐私，因为没有人可以看到别人的账户余额或者交易记录。
+  - 作为主打隐私的加密货币，门罗币采用了环形签名和隐身地址。环形签名是一种保护匿名数字签名，它不会暴露交易签名的主人。环形签名由发送方的公钥与区块链上的其他公钥混合生成。隐身地址则是在每次交易期间随机生成的一次性地址，用于隐藏交易的目标地址和接受者的身份。环形机密交易(RingCT)还能隐藏交易金额；2017年，这一特性被添加到门罗币网络上，成为交易网络的强制功能。
+  - 门罗币基于CryptoNote协议，与比特币不同，它具有动态的区块大小和交易费用。
+issue: 2014/04
+name: Monero
+total: "17870887"
+website: https://www.getmonero.org/

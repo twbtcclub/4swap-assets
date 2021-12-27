@@ -1,0 +1,22 @@
+circulation: "923049810"
+explorer: https://polkascan.io/
+intro:
+  en:
+  - Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain
+    transfer of any data or asset types, not just tokens, thereby making a wide range
+    of blockchains interoperable with each other.
+  - This interoperability seeks to establish a fully decentralized and private web,
+    controlled by its users, and simplify the creation of new applications, institutions
+    and services.
+  - The Polkadot protocol connects public and private chains, permissionless networks,
+    oracles and future technologies, allowing these independent blockchains to trustlessly
+    share information and transactions through the Polkadot relay chain (explained
+    further down).
+  - 'Polkadot’s native DOT token serves three clear purposes: providing network governance
+    and operations, and creating parachains (parallel chains) by bonding.'
+  zh:
+  - 波卡Polkadot为全球知名区块链跨链项目，由以太坊联合创始人、以太坊黄皮书作者Gavin Wood创建，旨在解决不同区块链之间存在的通信和数据传输障碍问题，曾被彭博社评为“2019年决定数字货币发展方向的4大项目”之一。
+issue: 2017/10/27
+name: Polkadot
+total: "1059062948"
+website: https://polkadot.network/

@@ -1,0 +1,22 @@
+circulation: "2937409463"
+explorer: https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f
+intro:
+  en:
+  - DAI is an Ethereum-based stablecoin (stable-price cryptocurrency) whose issuance
+    and development is managed by the Maker Protocol and the MakerDAO decentralized
+    autonomous organization.
+  - The price of DAI is soft-pegged to the U.S. dollar and is collateralized by a
+    mix of other cryptocurrencies that are deposited into smart-contract vaults every
+    time new DAI is minted.
+  - It is important to differentiate between Multi-Collateral DAI and Single-Collateral
+    DAI (SAI), an earlier version of the token that could only be collateralized by
+    a single cryptocurrency; SAI also doesn’t support the DAI Savings Rate, which
+    allows users to earn savings by holding DAI tokens.
+  - Multi-Collateral DAI was launched in November 2019.
+  zh:
+  - DAI是一个按照市场机制稳定的一个以太坊数字代表，来自 MakerDAO项目。Maker是以太坊上最早的去中心化自治组织之一（DAO）和智能合约系统，Maker
+    平台提供稳定基础货币DAIDAI是有数字资产抵押担保的基础货币，和美元保持 1:1 的锚定。
+issue: ""
+name: Dai
+total: "2937409489"
+website: https://makerdao.com

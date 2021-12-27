@@ -1,0 +1,11 @@
+circulation: ""
+explorer: https://cn.etherscan.com/token/0x58959e0c71080434f237bd42d07cd84b74cef438
+intro:
+  en: []
+  zh:
+  - TESRA SUPERNET是一个社区化的共享计算网络，基于链下的计算证明，通过扩展链上共识形成去中心化的调度系统和计算网络，结合人工智能与物联网，为未来开放商业体系构建计算价值层。
+  - TESRA SUPERNET立志于成为一个全球化、可无限扩展的超级计算网络，聚集全球区块链开发者和爱好者共同建设开放型社区，鼓励参与者的自由创新、协作和价值创造，提倡数据隐私安全，构建未来全面可编程社会的计算智能。
+issue: 2018/10/06
+name: TESRA SUPERNET
+total: "10000000000"
+website: https://tesra.io/en/

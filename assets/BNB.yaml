@@ -1,0 +1,21 @@
+circulation: "154532785"
+explorer: https://explorer.binance.org/
+intro:
+  en:
+  - BNB was launched through an initial coin offering in 2017, 11 days before the
+    Binance cryptocurrency exchange went online. It was originally issued as an ERC-20
+    token running on the Ethereum network, with a total supply capped at 200 million
+    coins, and 100 million BNBs offered in the ICO. However, the ERC-20 BNB coins
+    were swapped with BEP2 BNB on a 1:1 ratio in April 2019 with the launch of the
+    Binance Chain mainnet, and are now no longer hosted on Ethereum.
+  - BNB can be used as a payment method, a utility token to pay for fees on the Binance
+    exchange and for participation in token sales on the Binance launchpad. BNB also
+    powers the Binance DEX (decentralized exchange).
+  zh:
+  - 2017年，币安币通过首次代币发行(ICO)发布，11天后，币安交易所上线。它原本是部署在以太坊网络上的ERC-20代币，总量为2亿枚，其中1亿枚用于ICO。然而，随着币安链主网发布，ERC-20
+    币安币于2019年4月以1：1的比例与BEP2 币安币交换，不再托管在以太坊上。
+  - BNB是一种实用令牌，可用作支付手段，您可以用它抵扣在币安交易所的手续费，也可以用它参与币安LaunchPad（代币发行平台）上的令牌销售活动。另外， BNB还为币安DEX（去中心化交易所）提供动力。
+issue: 2017/07
+name: Binance Coin
+total: "170532785"
+website: https://www.binance.com

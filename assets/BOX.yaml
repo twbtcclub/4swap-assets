@@ -1,0 +1,15 @@
+circulation: ""
+explorer: ""
+intro:
+  en:
+  - 'Box is a crytocurrency ETF fund containing seven underlying assets: BTC, ETH,
+    EOS, MOB, XIN, UNI and DOT, designed by Xiaolai Li. Box Tokens represents the
+    shares of the fund. '
+  zh:
+  - BOX 是一个完全公开、透明的基金产品，由李笑来设计。
+  - BOX 的成分由 7 个标的构成，它们分别是 BTC、ETH、EOS、DOT、MOB、XIN、UNI。
+  - BOX Token 是参与 BOX 投资的权益证明，它是一个 ERC20 Token。
+issue: 2019/7/3
+name: BOX
+total: ""
+website: https://b.watch/

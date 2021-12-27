@@ -1,0 +1,12 @@
+circulation: ""
+explorer: ""
+intro:
+  en:
+  - MobileCoin is a privacy-preserving payments network designed for use on mobile
+    devices.
+  zh:
+  - MobileCoin 是一个隐私支付协议，专注于为移动通讯应用程序提供安全、隐私、极简的加密货币钱包服务，有望接入月活跃用户超过 4 千万的 Signal。
+issue: 2020/12/7
+name: MobileCoin
+total: "250000000"
+website: https://www.mobilecoin.com/
