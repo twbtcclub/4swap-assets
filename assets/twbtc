@@ -1,0 +1,17 @@
+circulation: "20999999"
+explorer: https://mixin.one/snapshots/5f363928-dcee-3708-838d-b5d3852d1569
+intro:
+  en:
+  - Taiwan Bitcoin (TWBTC) is a token based on the BEP20 contract.
+    TWBTC is a token initiated by a group of blockchain enthusiasts in Taiwan. 
+    We established the TWBTC Club in 2020, hoping to use "Taiwan Bitcoin to let the world see Taiwan and make Taiwan Bitcoin spread all over the world". , continue to move forward with the continuous iterative update of the blockchain.
+  zh: 
+  - 台灣比特幣(TWBTC)是一種基於BEP20合約的代幣。
+  - TWBTC是由一群在台灣的區塊鏈愛好者所發起的代幣，
+    我們於2020年成立了台灣比特幣俱樂部，
+    希望透過"台灣比特幣讓世界看見台灣，讓台灣比特幣遍布全世界"的宗旨，
+    持續跟著區塊鏈的不斷迭代更新向前邁進。
+issue: 2022/11/28
+name: TWBTC
+total: "21000000"
+website: https://www.twbtc.club/
